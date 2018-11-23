@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": "1542280603",
-      "filename": "PixysOS-v2.4-osprey-20181121-0815-OFFICIAL.zip",
-      "id": "366788a454e12dadfbf5eab27120783e",
+      "datetime": "1542868507",
+      "filename": "PixysOS-v2.4-osprey-20181122-0635-OFFICIAL.zip",
+      "id": "b39d6651d2b063c040570f4df80ec77e",
       "romtype": "official",
-      "size": 400565016,
-      "url": "https://iweb.dl.sourceforge.net/project/pixys-os/pie/osprey/PixysOS-v2.4-osprey-20181121-0815-OFFICIAL.zip",
+      "size": 400459280,
+      "url": "https://iweb.dl.sourceforge.net/project/pixys-os/pie/osprey/PixysOS-v2.4-osprey-20181122-0635-OFFICIAL.zip",
       "version": "2.4"
     }
   ]
