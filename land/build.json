@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": "1542539314",
-      "filename": "PixysOS-v2.4-land-20181118-1109-OFFICIAL.zip",
-      "id": "74f65c9c446c404b9fbc734b7fe28a65",
+      "datetime": "1543494327",
+      "filename": "PixysOS-v2.4-land-OFFICIAL-20181129-1225.zip",
+      "id": "7577bae7fa0c2546fd7b81f11672622c",
       "romtype": "official",
       "size": 561362608,
-      "url": "https://sourceforge.net/projects/pixys-os/files/pie/land/PixysOS-v2.4-land-20181128-1309-OFFICIAL.zip",
+      "url": "https://sourceforge.net/projects/pixys-os/files/pie/land/PixysOS-v2.4-land-OFFICIAL-20181129-1225.zip/download",
       "version": "2.4"
     }
   ]
