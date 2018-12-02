@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": "1543533450",
-      "filename": "PixysOS-v2.4-tissot-OFFICIAL-20181129-2317.zip",
-      "id": "1dab1539bea00f7b325509a130eb80f2",
+      "datetime": "1543705718",
+      "filename": "PixysOS-v2.4-tissot-OFFICIAL-20181201-2308.zip",
+      "id": "706e0571ddb9bb1c98a620108e8278fd",
       "romtype": "official",
-      "size": 575250618,
-      "url": "https://nchc.dl.sourceforge.net/project/test-builds/pixys/PixysOS-v2.4-tissot-OFFICIAL-20181129-2317.zip",
+      "size": 616627475,
+      "url": "https://sourceforge.net/projects/pixys-os/files/pie/tissot/PixysOS-v2.4-tissot-OFFICIAL-20181201-2308.zip",
       "version": "v2.4"
     }
   ]
