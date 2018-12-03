@@ -1,19 +1,6 @@
 {
   "response": [
     {
-      "datetime": "1543869731",
-      "filename": "PixysOS-v2.4-hi6250-20181201-2005-OFFICIAL.zip",
-      "id": "cc8a61dfbf9f21821c367a5aa4c171cc",
-      "romtype": "official",
-      "size": 523806358,
-      "url": "https://sourceforge.net/projects/pixys-os/files/pie/hi6250/PixysOS-v2.4-hi6250-20181201-2005-OFFICIAL.zip/download",
-      "version": "2.4"
-    }
-  ]
-}
-{
-  "response": [
-    {
       "datetime": "1543762920",
       "filename": "PixysOS-v2.4-hi6250-20181202-2028-OFFICIAL.zip",
       "id": "e0f2d9b5af461c2d084f7a8cbc347d08",
