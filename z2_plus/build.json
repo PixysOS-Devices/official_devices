@@ -1,26 +1,12 @@
 {
   "response": [
     {
-      "datetime": "1542375416",
-      "filename": "PixysOS-v2.4-z2_plus-20181117-0500-OFFICIAL.zip",
-      "id": "b39d6651d2b063c040570f4df80ec77e",
+      "datetime": "1547131536",
+      "filename": "PixysOS-v2.4-z2_plus-OFFICIAL-20190110-1445.zip",
+      "id": "b8bbd0d3c8fa52a42d35c1473e6e72b9",
       "romtype": "official",
-      "size": 535380743,
-      "url": "https://sourceforge.net/projects/pixys-os/files/pie/z2_plus/PixysOS-v2.4-z2_plus-20181117-0500-OFFICIAL.zip/download",
+      "size": 556374241,
+      "url": "https://jaist.dl.sourceforge.net/project/pixys-os/pie/z2_plus/PixysOS-v2.4-z2_plus-OFFICIAL-20190110-1445.zip",
       "version": "2.4"
     }
   ]
-}
-{
-  "response": [
-    {
-      "datetime": "1543323258",
-      "filename": "PixysOS-v2.4-z2_plus-20181126-1814-OFFICIAL.zip",
-      "id": "c6ceb2d1af58b37ad097ab1445010fdd",
-      "romtype": "official",
-      "size": 534949363,
-      "url": "https://downloads.sourceforge.net/project/pixys-os/pie/z2_plus/PixysOS-v2.4-z2_plus-20181126-1814-OFFICIAL.zip?r=https%3A%2F%2Fsourceforge.net%2Fprojects%2Fpixys-os%2Ffiles%2Fpie%2Fz2_plus%2F&ts=1544276859&use_mirror=liquidtelecom ",
-      "version": "2.4"
-    }
-  ]
-}
