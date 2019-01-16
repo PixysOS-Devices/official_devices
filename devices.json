@@ -1,19 +1,4 @@
-[{
-        "name": "Asus Zenphone Max Pro M1",
-        "brand": "Asus",
-        "codename": "X00T",
-        "maintainer_name": "Akshat",
-        "maintainer_url": "https://forum.xda-developers.com/member.php?u=7085442",
-        "xda_thread": "https://forum.xda-developers.com/asus-zenfone-max-pro-m1/development/rom-t3843477"
-    },
-    {
-        "name": "Huawei with Kirin 65x",
-        "brand": "Huawei",
-        "codename": "Hi6250",
-        "maintainer_name": "Askuccio",
-        "maintainer_url": "https://forum.xda-developers.com/member.php?u=6878128",
-        "xda_thread": "https://forum.xda-developers.com/p8lite/p8-lite-2017-development/rom-pixysos-huawei-hi6250-t385215]"
-    },
+[
     {
         "name": "Leeco Le 2",
         "brand": "Leeco",
@@ -29,14 +14,6 @@
         "maintainer_name": "Rohit Sinha",
         "maintainer_url": "https://forum.xda-developers.com/member.php?u=8680598",
         "xda_thread": "https://forum.xda-developers.com/lenovo-a6000/development/rom-pixysos-2-3lenovo-a6000-plus-t3864752"
-    },
-    {
-        "name": "Moto G 2015",
-        "brand": "Motorola",
-        "codename": "osprey",
-        "maintainer_name": "Subins Mani",
-        "maintainer_url": "https://forum.xda-developers.com/member.php?u=7868666",
-        "xda_thread": "https://forum.xda-developers.com/2015-moto-g/development/rom-pixysos-t3829413/page22"
     },
     {
         "name": "Moto G Turbo",
