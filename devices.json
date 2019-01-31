@@ -120,6 +120,14 @@
         "xda_thread": "https://forum.xda-developers.com/redmi-note-5-pro/development/rom-pixysos-t3846622"
     },
     {
+        "name": "Xiaomi MI 8 Lite",
+        "brand": "Xiaomi",
+        "codename": "platina",
+        "maintainer_name": "Melvin Garcia",
+        "maintainer_url": "https://forum.xda-developers.com/member.php?u=6969064",
+        "xda_thread": "https://forum.xda-developers.com/mi-8-Lite/development/rom-pixysos-v2-4-xiaomi-mi-8-lite-t3895330"
+    },
+    {
         "name": "Zuk Z2 Plus",
         "brand": "Lenovo",
         "codename": "z2_plus",
