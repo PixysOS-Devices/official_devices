@@ -1,0 +1,25 @@
+=========================
+      31-01-2019
+=========================
+* Jan Security Patch Merged
+* Source rebased and updated
+* New qs tiles
+* Font Manager
+* Full Navbar gestures
+* Customisable status bar clock/time options
+* Themes improvement
+* More and better accents to select from
+* Theme/accents tile picker added
+* Bootanimation blackout fixed
+* Multi-Sim ringtone selector
+* New sound picker ui from pixel
+* Weather Client Improvement
+* Three Finger Screenshot
+* Clock Style Added
+* Clock Settings Added
+* Launcher Is Got New Ui(look like Pixel Launcher3, but have more feature then that)
+* Uodater app is now Updated
+* About Us Section has been Improved
+* Gcam Add As prebuild Camera
+* Audio is loud but not better then stock or any custom audio mode
+ 
