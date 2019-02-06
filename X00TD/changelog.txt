@@ -1,3 +1,38 @@
+=====================
+    06-02-2019
+=====================
+1. February Security Patch Merged (android 9.0.0 r33)
+2. Fixed Updater changelog Link
+3. Fixed Updater Downloading issue on Enforced Build
+4. Improved The Document app UI
+5. Improved Animation during opening messaging App
+6. Improved our launcher and removed useless stuff
+7. Improved the Google Sound Picker permission
+8. Improved theme related stuff
+9. Improved Dialer UI
+10. Removed Now Play Feature
+11. Add Battery Temperature
+12. Add Sound Tile
+13. Add Animation On keyguard while Charging (credit to AOSCP team)
+14. Add Toggle to unlock the phone by Fingerprint on every Reboot.
+15.  Add switch for linked ring and media notification volumes
+16.  Add Night Light brightness mode options
+17.  Add One Hand Gesture
+18.  Add One Plus Switches default one
+19.  Workaround for some banking apps wrongly telling that we are rooted (Tested in BHIM And TEZ (still need to disable phone services for TEZ)), Without any magisk or any module.
+
+=====================
+      Device
+=====================
+1. Improved the sound, now its loud and clean. but dont expect better then stock sound.
+2. Zen kernel is upstreamed from 4.4.169 to 4.4.172
+3. Display Blobs updated to fix night night issues
+=====================
+        BUG
+=====================
+1. Selinux is permessive
+=====================
+
 =========================
       16-01-2019
 =========================
