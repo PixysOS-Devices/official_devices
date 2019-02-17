@@ -142,5 +142,13 @@
         "maintainer_name": "Allan Souza Ph",
         "maintainer_url": "https://forum.xda-developers.com/member.php?u=8343393",
         "xda_thread": "https://forum.xda-developers.com/g4-play/development/rom-pixysos-v2-4-harpia-unofficial-t3894058"
-    }
+    },
+    {
+        "name": "Xiaomi Mi Max/Prime",
+        "brand": "Xiaomi",
+        "codename": "hydrogen/helium",
+        "maintainer_name": "Rohit Shelke",
+        "maintainer_url": "https://forum.xda-developers.com/member.php?u=8213897"
+        "xda_thread": "https://forum.xda-developers.com/mi-max/development/rom-pixysos-t3894367"
+
 ]
