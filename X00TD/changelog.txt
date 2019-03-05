@@ -1,4 +1,32 @@
 =====================
+    05-03-2019
+=====================
+1. March Security Patch Merged
+2. Dark Theme for Google Feed
+3. Added toggle to lock ur desktop items
+4. Added AGPS setting menu
+5. Added dark/black theme for Digital welbeing
+6. More Fixes Added for Themeing Related
+7. Removed the Swipe Up arrow mark from Launcher(Many Users Dont like that)
+8. Removed Three Dot menu From Battery Dashboard, u can tap battery icon directly to see battery stats.
+
+=====================
+      DEVICE
+=====================
+1. GCAM Issue Fixed(Shutter Button Freeze)
+2. F2FS Support Added
+3. Headphone Audio is now increased.
+4. Kernel version Is Upstreamed
+5. All Patches from CAF is merged
+6. Headphone Audio is now increased.
+
+=====================
+	BUG
+=====================
+Selinux is Permessive
+=====================
+
+=====================
     06-02-2019
 =====================
 1. February Security Patch Merged (android 9.0.0 r33)
