@@ -1,4 +1,32 @@
 =====================
+    05-03-2019
+=====================
+1. March Security Patch Merged
+2. Dark Theme for Google Feed
+3. Added toggle to lock ur desktop items
+4. Added AGPS setting menu
+5. Added dark/black theme for Digital welbeing
+6. More Fixes Added for Themeing Related
+7. Removed the Swipe Up arrow mark from Launcher(Many Users Dont like that)
+8. Removed Three Dot menu From Battery Dashboard, u can tap battery icon directly to see battery stats.
+
+=====================
+      DEVICE
+=====================
+1. GCAM Focus Issue Fixed
+2. Enable Sepolicy Support
+3. Headphone Audio is now increased.
+4. Kernel version Is Upstreamed
+5. Incall Volume Increase
+6. FM Radio Spports Fully
+7. Added WFD Commits ( Need to check Cast Working or not)
+8. Added DTV Libs 
+9. Volte Fully Supported ( Checked Personally)
+10.Added alucard,elementalx, ondemand,blu_schedutil governor and some more
+
+
+
+=====================
     06-02-2019
 =====================
 
