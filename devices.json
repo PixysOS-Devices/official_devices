@@ -158,6 +158,14 @@
         "maintainer_name": "Rohit Shelke",
         "maintainer_url": "https://forum.xda-developers.com/member.php?u=8213897",
         "xda_thread": "https://forum.xda-developers.com/mi-max/development/rom-pixysos-t3894367"
+    },
+    {
+        "name": "Oneplus 2",
+        "brand": "Oneplus",
+        "codename": "oneplus2",
+        "maintainer_name": "akama1",
+        "maintainer_url": "https://forum.xda-developers.com/member.php?u=7387284",
+        "xda_thread": "https://forum.xda-developers.com/oneplus-2/development/rom-pixys-os-v2-4-t3909078/post79071514#post79071514"
     }
 
 ]
