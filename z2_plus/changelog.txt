@@ -1,0 +1,22 @@
+=====================
+    06-03-2019
+=====================
+1. March Security Patch Merged (android 9.0.0 r34)
+2. Fwb Boost (Only for Supported devices)
+3. Dark Theme for Google Feed
+4. Added toggle to lock ur desktop items
+5. Added AGPS setting menu
+6. Added dark/black theme for Digital welbeing
+7. Added DiracSound FX For Supported Devices Only
+8. Add Notch Friently VoLTE icon (Only for Notch Device)
+9. More Fixxes Added for Themeing Related
+10. Removed the Swipe Up arrow mark from Launcher(Many Users Dont like that)
+11. Removed Three Dot menu From Battery Dashboard, u can tap battery icon directly to see battery stat
+12 DEVICE;* Fixed Encryption
+13 DEVICE;* Latest Bubblewarp
+14.DEVICE* KCAL (Display colour calibration)
+14.DEVICE* Fixed wrong mac addresses
+16.DEVICE* kernel compiled with clang 9.0.1
+17.DEVICE* switched to aosp offline charger
+18.DEVICE* fixed dark gcam video
+19.DEVICE* fixed mic less headphone issues
