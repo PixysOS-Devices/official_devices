@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": "1550327811",
-      "filename": "PixysOS-v2.4-platina-OFFICIAL-20190216-1436.zip",
-      "id": "2b037271295f6b0b02b2af77408c1198",
+      "datetime": "1552318036",
+      "filename": "PixysOS-v2.4-platina-OFFICIAL-20190311-1527.zip",
+      "id": "0ac6c7d7877c39b41bfa817c46530ad3",
       "romtype": "official",
-      "size": 699426865 ,
-      "url": "https://master.dl.sourceforge.net/project/pixys-os/pie/platina/PixysOS-v2.4-platina-OFFICIAL-20190216-1436.zip",
+      "size": 699345289,
+      "url": "https://master.dl.sourceforge.net/project/pixys-os/pie/platina/PixysOS-v2.4-platina-OFFICIAL-20190311-1527.zip",
       "version": "v2.4"
     }
   ]
