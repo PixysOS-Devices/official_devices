@@ -2,6 +2,30 @@
       Device
 =====================
 
+1. Update Doze
+2. Set OpenGL Skia as renderer
+3. Use build fingerprint from Taimen
+4. Optimize SystemUI for smoothness
+5. Pin camera, systemUI and surfaceflinger for smoothness
+6. Clean up stuff
+7. Update platina vendor to 9.2.15
+
+=====================
+    05-03-2019
+=====================
+1. March Security Patch Merged (android 9.0.0 r34)
+2. Dark Theme for Google Feed
+3. Added toggle to lock ur desktop items
+4. Added AGPS setting menu
+5. Added dark/black theme for Digital welbeing
+6. More Fixes Added for Themeing Related
+7. Removed the Swipe Up arrow mark from Launcher(Many Users Dont like that)
+8. Removed Three Dot menu From Battery Dashboard, u can tap battery icon directly to see battery stats.
+
+=====================
+      Device
+=====================
+
 1. Update kernel to MIUI 9.1.24
 2. Fix audio crunch once and for all
 3. Fix some bluetooth audio issues
