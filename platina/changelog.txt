@@ -9,6 +9,7 @@
 5. Pin camera, systemUI and surfaceflinger for smoothness
 6. Clean up stuff
 7. Update platina vendor to 9.2.15
+8. Fixed headphones issue
 
 =====================
     05-03-2019
