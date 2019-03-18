@@ -32,22 +32,6 @@
         "xda_thread": "https://forum.xda-developers.com/2015-moto-g/development/rom-pixysos-t3853858"
     },
     {
-        "name": "Moto G5 Plus",
-        "brand": "Motorola",
-        "codename": "potter",
-        "maintainer_name": "Eduardo Bastier",
-        "maintainer_url": "https://forum.xda-developers.com/member.php?u=8819719",
-        "xda_thread": "https://forum.xda-developers.com/g5-plus/development/rom-pixysos-t3902969"
-    },
-    {
-        "name": "Moto GS5 Plus",
-        "brand": "Motorola",
-        "codename": "sanders",
-        "maintainer_name": "Syed Sajid",
-        "maintainer_url": "https://forum.xda-developers.com/member.php?u=6116475",
-        "xda_thread": "https://forum.xda-developers.com/moto-g5s-plus/development/rom-t3860526"
-    },
-    {
         "name": "Wileyfox Swift",
         "brand": "Wileyfox",
         "codename": "crackling",
@@ -142,22 +126,6 @@
         "maintainer_name": "Aswin A S",
         "maintainer_url": "https://forum.xda-developers.com/member.php?u=8499818",
         "xda_thread": "https://forum.xda-developers.com/lenovo-zuk-z2/development/rom-pixys-os-zuk-z2-plus-t3854189"
-    },
-    {
-        "name": "Moto G4 Play",
-        "brand": "Motorola",
-        "codename": "harpia",
-        "maintainer_name": "Allan Souza Ph",
-        "maintainer_url": "https://forum.xda-developers.com/member.php?u=8343393",
-        "xda_thread": "https://forum.xda-developers.com/g4-play/development/rom-pixysos-v2-4-harpia-unofficial-t3894058"
-    },
-    {
-        "name": "Xiaomi Mi Max/Prime",
-        "brand": "Xiaomi",
-        "codename": "hydrogen/helium",
-        "maintainer_name": "Rohit Shelke",
-        "maintainer_url": "https://forum.xda-developers.com/member.php?u=8213897",
-        "xda_thread": "https://forum.xda-developers.com/mi-max/development/rom-pixysos-t3894367"
     },
     {
         "name": "Oneplus 2",
