@@ -32,6 +32,14 @@
         "xda_thread": "https://forum.xda-developers.com/2015-moto-g/development/rom-pixysos-t3853858"
     },
     {
+        "name": "Moto GS5 Plus",
+        "brand": "Motorola",
+        "codename": "sanders",
+        "maintainer_name": "Syed Sajid",
+        "maintainer_url": "https://forum.xda-developers.com/member.php?u=6116475",
+        "xda_thread": "https://forum.xda-developers.com/moto-g5s-plus/development/rom-t3860526"
+    },
+    {
         "name": "Wileyfox Swift",
         "brand": "Wileyfox",
         "codename": "crackling",
