@@ -1,4 +1,30 @@
 =====================
+     02-04-2019
+=====================
+1. April Patch Merged
+2. Added expandable Volume bar
+3. Add Always On Display While Charging
+4. Add toggle to Wake on plug
+5. Minor Theme Related Fixes
+6. Updater Issue fixed "After Download latest Build still it showing update Available"
+7. Add New Animation for Battery Stats
+8. New VoLTE Icon Added
+9. fix statusbar clock overlapping after reboot
+10. Add Back WPS connect
+11. Add Auto brightness for Ambient Display
+12. Add Uptime on About Phone Setion
+13. Implement alternative method for manual network select.
+14. Add settings icon on qs panel
+15. Improve Our PixysOS Logo
+=====================
+	DEVICE
+=====================
+1.Added WFD Blobs
+2.Kernel Upstream 3.18.137
+3.Rebased Kernel with Stock Oreo
+4.Gcam Focus Fixed finally
+
+=====================
     05-03-2019
 =====================
 1. March Security Patch Merged
