@@ -1,4 +1,41 @@
 =====================
+     02-04-2019
+=====================
+1. April Patch Merged
+2. Added expandable Volume bar
+3. Add Always On Display While Charging
+4. Add toggle to Wake on plug
+5. Minor Theme Related Fixes
+6. Updater Issue fixed "After Download latest Build still it showing update Available"
+7. Add New Animation for Battery Stats
+8. New VoLTE Icon Added
+9. fix statusbar clock overlapping after reboot
+10. Add Back WPS connect
+11. Add Auto brightness for Ambient Display
+12. Add Uptime on About Phone Setion
+13. Implement alternative method for manual network select.
+14. Add settings icon on qs panel
+15. Improve Our PixysOS Logo
+=====================
+	DEVICE
+=====================
+1. Using KUD Tree
+2. Most of the Blobs are Updated to pie.
+3. Selinux Is now fully Enforced
+4. CTS is Passing Without Any magisk, u can use Google pay and can Download Netflix from Play store out of the box.
+5. L1 Issue is fixed on enforced build(now it support upto 4K)
+6. Kernel Is Upstreamed to v4.4.177
+7. Upgrade Google Camera v5 to v6 with Green Tint Fix for all variant.
+8. OTG is now fully working
+9. Device shutdown during usb tethering fixed
+10. Low Audio from Headphone fixed.
+=====================
+	BUG
+=====================
+1. U tell LoL. If any issue Post it in XDA, Dont pm in XDA or Telegram :P.
+=====================
+
+=====================
     05-03-2019
 =====================
 1. March Security Patch Merged
