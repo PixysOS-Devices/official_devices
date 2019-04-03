@@ -1,4 +1,32 @@
 =====================
+     02-04-2019 
+===================== 
+1. April Patch Merged 
+2. Added expandable Volume bar 
+3. Add Always On Display While Charging 
+4. Add toggle to Wake on plug 
+5. Minor Theme Related Fixes 
+6. Updater Issue fixed "After Download latest Build still it showing update Available" 
+7. Add New Animation for Battery Stats 
+8. New VoLTE Icon Added 
+9. fix statusbar clock overlapping after reboot 
+10. Add Back WPS connect 
+11. Add Auto brightness for Ambient Display 
+12. Add Uptime on About Phone Setion 
+13. Implement alternative method for manual network select. 
+14. Add settings icon on qs panel
+15. Improve Our PixysOS Logo
+=====================
+	DEVICE 
+===================== 
+1.Update full graphics stack from LA.UM.7.5.r1-03700-8x96.0
+2.Update blobs from daisy 9/PKQ1.180917.001/V10.0.7
+3.improved miracast audio , etc (needs testing) 
+4.hmp kernel by default 
+5.kernel : added wireguard support
+6.kernel : added sound control
+
+=====================
     06-03-2019
 =====================
 1. March Security Patch Merged (android 9.0.0 r34)
@@ -20,3 +48,5 @@
 17.DEVICE* switched to aosp offline charger
 18.DEVICE* fixed dark gcam video
 19.DEVICE* fixed mic less headphone issues
+
+
