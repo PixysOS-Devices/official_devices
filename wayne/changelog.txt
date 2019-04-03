@@ -1,4 +1,34 @@
 =====================
+    03-04-2019
+=====================
+1. April Patch Merged
+2. Added expandable Volume bar
+3. Add Always On Display While Charging
+4. Add toggle to Wake on plug
+5. Minor Theme Related Fixes
+6. Updater Issue fixed "After Download latest Build still it showing update Available"
+7. Add New Animation for Battery Stats
+8. New VoLTE Icon Added
+9. fix statusbar clock overlapping after reboot
+10. Add Back WPS connect
+11. Add Auto brightness for Ambient Display
+12. Add Uptime on About Phone Setion
+13. Implement alternative method for manual network select (add TARGET_USES_ALTERNATIVE_MANUAL_NETWORK_SELECT := true to your device tree)
+14. Add settings icon on qs panel
+15. Improve Our PixysOS Logo
+
+=====================
+  Device  Changelog
+=====================
+1. complete new Kernel based on Linux Stable 4.4.177
+2. screen bleeding fixed
+3. double tap to wake fixed
+4. selinux enforcing
+5. updated fingerprint hal
+6. fixed netflix crash
+7. better fingerprint service
+
+=====================
     06-03-2019
 =====================
 1. March Security Patch Merged (android 9.0.0 r34)
