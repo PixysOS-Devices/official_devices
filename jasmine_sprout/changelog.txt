@@ -1,4 +1,16 @@
 =====================
+    08-04-2019
+=====================
+None
+=====================
+  Device  Changelog
+=====================
+1. Kernel Upstreamed to 4.4.178
+2. fixed reboot at low battery (<10%)
+3. selinux improvments
+4. caf merged LA.UM.7.2.r1-06700
+
+=====================
     03-04-2019
 =====================
 1. April Patch Merged
