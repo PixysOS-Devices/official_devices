@@ -24,14 +24,6 @@
         "xda_thread": "https://forum.xda-developers.com/lenovo-a6000/development/rom-pixysos-2-3lenovo-a6000-plus-t3864752"
     },
     {
-        "name": "Moto G Turbo",
-        "brand": "Motorola",
-        "codename": "merlin",
-        "maintainer_name": "Hritik Utekar",
-        "maintainer_url": "https://forum.xda-developers.com/member.php?u=7560545",
-        "xda_thread": "https://forum.xda-developers.com/2015-moto-g/development/rom-pixysos-t3853858"
-    },
-    {
         "name": "Moto GS5 Plus",
         "brand": "Motorola",
         "codename": "sanders",
