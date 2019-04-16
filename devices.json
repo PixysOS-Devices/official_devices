@@ -103,6 +103,14 @@
         "maintainer_url": "https://forum.xda-developers.com/member.php?u=9059902",
         "xda_thread": "https://forum.xda-developers.com/xiaomi-redmi-4x/how-to/rom-pixysos-t3898830"
     },
+     {
+        "name": "Xiaomi Redmi 5",
+        "brand": "Xiaomi",
+        "codename": "rosy",
+        "maintainer_name": "Shivam Jadon, Shreejoy Dash",
+        "maintainer_url": "https://forum.xda-developers.com/member.php?u=9480926, https://forum.xda-developers.com/member.php?u=8338700",
+        "xda_thread": "https://forum.xda-developers.com/redmi-5/development/rom-pixysos-rosy-shivam-jadon-t3891384"
+    },
     {
         "name": "Xiaomi Redmi Note 5",
         "brand": "Xiaomi",
