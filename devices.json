@@ -32,14 +32,6 @@
         "xda_thread": "https://forum.xda-developers.com/moto-g5s-plus/development/rom-t3860526"
     },
     {
-        "name": "Wileyfox Swift",
-        "brand": "Wileyfox",
-        "codename": "crackling",
-        "maintainer_name": "Dev4Perf",
-        "maintainer_url": "https://forum.xda-developers.com/member.php?u=7865714",
-        "xda_thread": "https://forum.xda-developers.com/wileyfox-swift/orig-development/rom-pixysos-t3891599"
-    },
-    {
         "name": "Redmi 4A",
         "brand": "Xiaomi",
         "codename": "rolex",
