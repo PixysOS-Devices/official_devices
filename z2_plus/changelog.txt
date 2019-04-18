@@ -1,4 +1,26 @@
 =====================
+     18-04-2019 
+===================== 
+1. Stock Recents/Overview icon pack support 
+2. Support per-app icon and label customization 
+3. Lockscreen Clock Styles: Introduce Q style text clock 
+4. Agressive battery settings 
+5. Cellular qs tile from OOS 
+6. Lockscreen cover art filter 
+7. Location tile : make it cycle modes 
+8. Added Cpu info toggle tile 
+9. Added deep sleep info into uptime 
+10. improved dark theme 
+=====================
+	DEVICE
+===================== 
+1. fixed audio issues
+2. switched to cfq
+3. fixed volte issues 
+4. kernel : merged latest caf tag
+5. kernel : added boeffla wakelock blocker
+
+=====================
      02-04-2019 
 ===================== 
 1. April Patch Merged 
