@@ -24,7 +24,7 @@
         "xda_thread": "https://forum.xda-developers.com/lenovo-a6000/development/rom-pixysos-2-3lenovo-a6000-plus-t3864752"
     },
     {
-        "name": "Moto G5S Plus",
+        "name": "Moto GS5 Plus",
         "brand": "Motorola",
         "codename": "sanders",
         "maintainer_name": "Syed Sajid",
@@ -134,6 +134,14 @@
         "maintainer_name": "akama1",
         "maintainer_url": "https://forum.xda-developers.com/member.php?u=7387284",
         "xda_thread": "https://forum.xda-developers.com/oneplus-2/development/rom-pixys-os-v2-4-t3909078/post79071514#post79071514"
+    },
+    {
+        "name": "Moto G6 Plus",
+        "brand": "Motorola",
+        "codename": "evert",
+        "maintainer_name": "Ardjlon",
+        "maintainer_url": "https://forum.xda-developers.com/member.php?u=7006405",
+        "xda_thread": "https://forum.xda-developers.com/g6-plus/development/rom-pixysos-t3928295"
     }
 
 ]
