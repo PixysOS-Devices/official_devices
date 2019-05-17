@@ -126,7 +126,7 @@
         "maintainer_name": "akama1",
         "maintainer_url": "https://forum.xda-developers.com/member.php?u=7387284",
         "xda_thread": "https://forum.xda-developers.com/oneplus-2/development/rom-pixys-os-v2-4-t3909078/post79071514#post79071514"
-    },
+    }
     {
         "name": "Moto G6 Plus",
         "brand": "Motorola",
@@ -134,6 +134,15 @@
         "maintainer_name": "Ardjlon",
         "maintainer_url": "https://forum.xda-developers.com/member.php?u=7006405",
         "xda_thread": "https://forum.xda-developers.com/g6-plus/development/rom-pixysos-t3928295"
+    }
+
+{
+        "name": "OnePlus 3",
+        "brand": "OnePlus",
+        "codename": "oneplus3",
+        "maintainer_name": "UtkuAblak",
+        "maintainer_url": "https://forum.xda-developers.com/member.php?u=7441653",
+        "xda_thread": "https://forum.xda-developers.com/oneplus-3/oneplus-3--3t-cross-device-development/rom-pixysos-t3930857"
     }
 
 ]
