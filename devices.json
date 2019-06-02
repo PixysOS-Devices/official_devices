@@ -134,6 +134,14 @@
         "maintainer_name": "Ardjlon",
         "maintainer_url": "https://forum.xda-developers.com/member.php?u=7006405",
         "xda_thread": "https://forum.xda-developers.com/g6-plus/development/rom-pixysos-t3928295"
+    },
+    {
+        "name": "Redmi 4 Prime",
+        "brand": "Xiaomi",
+        "codename": "markw",
+        "maintainer_name": "DarkAngelGR",
+        "maintainer_url": "https://forum.xda-developers.com/member.php?u=8065843",
+        "xda_thread": "https://forum.xda-developers.com/redmi-4-prime/development/9-0-pixysos-v2-4-t3935996/post79648061#post79648061"
     }
 
 ]
