@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": "1557292295",
-      "filename": "PixysOS-v2.4-rosy-OFFICIAL-20190508-051206.zip",
-      "id": "7a48c41c7b72aa4e2f6aa91dc26da01d",
+      "datetime": "1559639523",
+      "filename": "PixysOS-v2.4-rosy-OFFICIAL-20190604-091203.zip",
+      "id": "e2e73bb3ed1a3a674da087a9f77cb1c5",
       "romtype": "official",
-      "size": 550820211,
-      "url": "https://sourceforge.net/projects/pixys-os/files/pie/rosy/PixysOS-v2.4-rosy-OFFICIAL-20190508-051206.zip",
+      "size": 550542946,
+      "url": "http://api.shreejoydash.me/PixysOS-mirror/PixysOS-v2.4-rosy-OFFICIAL-20190604-091203.zip",
       "version": "v2.4"
     }
   ]
