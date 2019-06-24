@@ -8,22 +8,6 @@
         "xda_thread": "https://forum.xda-developers.com/asus-zenfone-max-pro-m1/development/rom-pixysos-t3890672"
     },
     {
-        "name": "Leeco Le 2",
-        "brand": "Leeco",
-        "codename": "s2",
-        "maintainer_name": "Syed Ehteshm",
-        "maintainer_url": "https://forum.xda-developers.com/member.php?u=8865764",
-        "xda_thread": "https://forum.xda-developers.com/moto-g5s-plus/development/rom-t3860526"
-    },
-    {
-        "name": "Lenovo A6000",
-        "brand": "Lenovo",
-        "codename": "a6000",
-        "maintainer_name": "Rohit Sinha",
-        "maintainer_url": "https://forum.xda-developers.com/member.php?u=8680598",
-        "xda_thread": "https://forum.xda-developers.com/lenovo-a6000/development/rom-pixysos-2-3lenovo-a6000-plus-t3864752"
-    },
-    {
         "name": "Moto G5S Plus",
         "brand": "Motorola",
         "codename": "sanders",
@@ -64,28 +48,12 @@
         "xda_thread": "https://forum.xda-developers.com/mi-a1/development/unofficial-pixys-os-t3845454"
     },
     {
-        "name": "Xiaomi Mi 6X",
-        "brand": "Xiaomi",
-        "codename": "wayne",
-        "maintainer_name": "Akshay Kakatkar",
-        "maintainer_url": "https://forum.xda-developers.com/member.php?u=8624500",
-        "xda_thread": "https://forum.xda-developers.com/mi-a2/xiaomi-6x-wayne/rom-pixysos-t3908132"
-    },
-    {
         "name": "Xiaomi Redmi 3S",
         "brand": "Xiaomi",
         "codename": "land",
         "maintainer_name": "Amarjithtk",
         "maintainer_url": "https://forum.xda-developers.com/member.php?u=8595889",
         "xda_thread": "https://forum.xda-developers.com/xiaomi-redmi-3s/development/rom-pixysos-amareverything-t3849450"
-    },
-    {
-        "name": "Xiaomi Redmi 4X",
-        "brand": "Xiaomi",
-        "codename": "santoni",
-        "maintainer_name": "Anindito",
-        "maintainer_url": "https://forum.xda-developers.com/member.php?u=9059902",
-        "xda_thread": "https://forum.xda-developers.com/xiaomi-redmi-4x/how-to/rom-pixysos-t3898830"
     },
      {
         "name": "Xiaomi Redmi 5",
@@ -118,14 +86,6 @@
         "maintainer_name": "Aswin A S",
         "maintainer_url": "https://forum.xda-developers.com/member.php?u=8499818",
         "xda_thread": "https://forum.xda-developers.com/lenovo-zuk-z2/development/rom-pixys-os-zuk-z2-plus-t3854189"
-    },
-    {
-        "name": "Oneplus 2",
-        "brand": "Oneplus",
-        "codename": "oneplus2",
-        "maintainer_name": "akama1",
-        "maintainer_url": "https://forum.xda-developers.com/member.php?u=7387284",
-        "xda_thread": "https://forum.xda-developers.com/oneplus-2/development/rom-pixys-os-v2-4-t3909078/post79071514#post79071514"
     },
     {
         "name": "Moto G6 Plus",
