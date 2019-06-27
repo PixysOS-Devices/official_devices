@@ -102,6 +102,14 @@
         "maintainer_name": "DarkAngelGR",
         "maintainer_url": "https://forum.xda-developers.com/member.php?u=8065843",
         "xda_thread": "https://forum.xda-developers.com/redmi-4-prime/development/9-0-pixysos-v2-4-t3935996/post79648061#post79648061"
+    },
+    {
+        "name": "Redmi 4X",
+        "brand": "Xiaomi",
+        "codename": "santoni",
+        "maintainer_name": "Ojas Sinha",
+        "maintainer_url": "https://forum.xda-developers.com/member.php?u=8131258",
+        "xda_thread": "https://forum.xda-developers.com/xiaomi-redmi-4x/development/9-0-pixysos-t3943380"
     }
 
 ]
