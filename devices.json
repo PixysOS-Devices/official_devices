@@ -110,5 +110,13 @@
         "maintainer_name": "Aswin A S",
         "maintainer_url": "https://forum.xda-developers.com/member.php?u=8499818",
         "xda_thread": "https://forum.xda-developers.com/lenovo-zuk-z2/development/rom-pixys-os-zuk-z2-plus-t3854189"
+    },
+    {
+        "name": "Xiaomi Redmi 6 Pro",
+        "brand": "Xiaomi",
+        "codename": "sakura",
+        "maintainer_name": "Tushar Mahajan",
+        "maintainer_url": "https://forum.xda-developers.com/member.php?u=9505787",
+        "xda_thread": "https://forum.xda-developers.com/redmi-6-pro/development/rom-pixys-os-v2-4-t3928452"
     }
 ]
