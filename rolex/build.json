@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": "1559715436",
-      "filename": "PixysOS-v2.4-rolex-OFFICIAL-20190605-061716.zip",
-      "id": "ffa299b058d16d73418d7c10f79dcb77",
+      "datetime": "1562095436",
+      "filename": "PixysOS-v2.4-rolex-OFFICIAL-20190703-005356.zip",
+      "id": "7245a937e47125b24788abab50315310",
       "romtype": "official",
-      "size": 551056937,
-      "url": "https://sourceforge.net/projects/pixys-os/files/pie/Rolex/PixysOS-v2.4-rolex-OFFICIAL-20190605-061716.zip/download",
+      "size": 549343061,
+      "url": "http://downloads.pixysos.com/rolex/PixysOS-v2.4-rolex-OFFICIAL-20190703-005356.zip",
       "version": "2.4"
     }
   ]
