@@ -110,6 +110,14 @@
         "maintainer_name": "Aswin A S",
         "maintainer_url": "https://forum.xda-developers.com/member.php?u=8499818",
         "xda_thread": "https://forum.xda-developers.com/lenovo-zuk-z2/development/rom-pixys-os-zuk-z2-plus-t3854189"
+      
+     {
+		 "name": "Xiaomi Redmi Note 7",
+        "brand": "Xiaomi",
+        "codename": "lavender",
+        "maintainer_name": "Naveen Achari",
+        "maintainer_url": "https://forum.xda-developers.com/member.php?u=9697924",
+        "xda_thread": ""
     },
     {
         "name": "Xiaomi Redmi 6 Pro",
