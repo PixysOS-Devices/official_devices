@@ -2,12 +2,12 @@
 {
   "response": [
     {
-      "datetime": "1562168945",
-      "filename": "PixysOS-v2.4-whyred-OFFICIAL-20190703-211905.zip",
-      "id": "e04044f3f4f97de7d81a5818cfcb3c9c",
+      "datetime": "1562822632",
+      "filename": "PixysOS-v2.4-whyred-OFFICIAL-20190711-105352.zip",
+      "id": "33c9447c4ce46284c7ad2fc62be38553",
       "romtype": "official",
-      "size": 661940738,
-      "url": "http://downloads.pixysos.com/whyred/PixysOS-v2.4-whyred-OFFICIAL-20190703-211905.zip",
+      "size": 658478527,
+      "url": "http://downloads.pixysos.com/whyred/PixysOS-v2.4-whyred-OFFICIAL-20190711-105352.zip",
       "version": "v2.4"
     }
   ]
