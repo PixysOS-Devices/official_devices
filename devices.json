@@ -79,6 +79,13 @@
         "maintainer_url": "https://forum.xda-developers.com/member.php?u=7590774",
         "xda_thread": "https://forum.xda-developers.com/mi-a1/development/unofficial-pixys-os-t3845454"
     },
+    {
+        "name": "Xiaomi Mi A2",
+        "brand": "Xiaomi",
+        "codename": "jasmine_sprout",
+        "maintainer_name": "Akshay Kakatkar",
+        "maintainer_url": "https://forum.xda-developers.com/member.php?u=8624500",
+     },
      {
         "name": "Redmi Note 5 Plus",
         "brand": "Xiaomi",
