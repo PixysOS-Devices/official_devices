@@ -8,14 +8,6 @@
         "xda_thread": "https://forum.xda-developers.com/g6-plus/development/rom-pixysos-t3928295"
     },
     {
-        "name": "Xiaomi Redmi 3S",
-        "brand": "Xiaomi",
-        "codename": "land",
-        "maintainer_name": "Amarjithtk",
-        "maintainer_url": "https://forum.xda-developers.com/member.php?u=8595889",
-        "xda_thread": "https://forum.xda-developers.com/xiaomi-redmi-3s/development/rom-pixysos-amareverything-t3849450"
-    },
-    {
         "name": "Redmi 4 Prime",
         "brand": "Xiaomi",
         "codename": "markw",
@@ -30,14 +22,6 @@
         "maintainer_name": "Dattu Sharma",
         "maintainer_url": "https://forum.xda-developers.com/member.php?u=8531102",
         "xda_thread": "https://forum.xda-developers.com/redmi-note-4/xiaomi-redmi-note-4-snapdragon-roms-kernels-recoveries--other-development/rom-pixysos-t3863047"
-    },
-    {
-        "name": "Xiaomi MI 8 Lite",
-        "brand": "Xiaomi",
-        "codename": "platina",
-        "maintainer_name": "Melvin Garcia",
-        "maintainer_url": "https://forum.xda-developers.com/member.php?u=6969064",
-        "xda_thread": "https://forum.xda-developers.com/mi-8-Lite/development/rom-pixysos-v2-4-xiaomi-mi-8-lite-t3895330"
     },
     {
         "name": "Redmi 4A",
