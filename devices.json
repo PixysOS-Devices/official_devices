@@ -35,8 +35,20 @@
       "name":"Xiaomi Redmi 5",
       "brand":"Xiaomi",
       "codename":"rosy",
-      "maintainer_name":"Shivam Jadon, Shreejoy Dash",
-      "maintainer_url":"https://forum.xda-developers.com/member.php?u=9480926, https://forum.xda-developers.com/member.php?u=8338700",
+      "maintainer":[  
+         {  
+            "name":"Shivam Jadon",
+            "github_url":"https://github.com/isenpie",
+            "telegram_url":"https://t.me/shivamjadon",
+            "xda_url":"https://forum.xda-developers.com/member.php?u=9480926"
+         },
+         {  
+            "name":"Shreejoy Dash",
+            "github_url":"https://github.com/shreejoy",
+            "telegram_url":"https://t.me/AndroidPie9",
+            "xda_url":"https://forum.xda-developers.com/member.php?u=8338700"
+         }
+      ],
       "xda_thread":"https://forum.xda-developers.com/redmi-5/development/rom-pixysos-rosy-shivam-jadon-t3891384"
    },
    {  
@@ -63,13 +75,13 @@
       "maintainer_url":"https://forum.xda-developers.com/member.php?u=7590774",
       "xda_thread":"https://forum.xda-developers.com/mi-a1/development/unofficial-pixys-os-t3845454"
    },
-   {
-       "name": "Xiaomi Mi A2",
-       "brand": "Xiaomi",
-       "codename": "jasmine_sprout",
-       "maintainer_name": "pqhaz",
-       "maintainer_url": "https://forum.xda-developers.com/member.php?u=9735543",
-       "xda_thread":""
+   {  
+      "name":"Xiaomi Mi A2",
+      "brand":"Xiaomi",
+      "codename":"jasmine_sprout",
+      "maintainer_name":"pqhaz",
+      "maintainer_url":"https://forum.xda-developers.com/member.php?u=9735543",
+      "xda_thread":""
    },
    {  
       "name":"Redmi Note 5 Plus",
