@@ -102,6 +102,13 @@
       "maintainer_name":"Rahul Mishra",
       "maintainer_url":"https://forum.xda-developers.com/member.php?u=7426783",
       "xda_thread":"https://forum.xda-developers.com/nexus-6p/development/rom-pixysos-t3952614"
+   },
+   {  
+      "name":"POCO F1",
+      "brand":"Xiaomi",
+      "codename":"beryllium",
+      "maintainer_name":"AxelBlaz3",
+      "maintainer_url":"https://forum.xda-developers.com/member.php?u=5057155",
+      "xda_thread":""
    }
-
 ]
