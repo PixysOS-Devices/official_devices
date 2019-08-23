@@ -1,13 +1,15 @@
 {
   "response": [
     {
-      "datetime": 1565167787,
-      "filename": "PixysOS-v2.4-santoni-OFFICIAL-20190807-141947.zip",
-      "id": "67f9be0c1f03cdee9ad74ab9a1fb2e11",
-      "size": 567610952,
+      "datetime": 1566551443,
+      "filename": "PixysOS-v2.4-santoni-OFFICIAL-20190823-144043.zip",
+      "id": "18c6b50b145f9c88886fac77ca6e07f3",
+      "size": 568676974,
       "romtype": "official",
-      "url": "https://downloads.sourceforge.net/project/pixys-os/pie/santoni/PixysOS-v2.4-santoni-OFFICIAL-20190807-141947.zip",
+      "url": "https://downloads.sourceforge.net/project/pixys-os/pie/santoni/PixysOS-v2.4-santoni-OFFICIAL-20190823-144043.zip",
       "version": "v2.4"
+      "xda_thread_url":"https://forum.xda-developers.com/xiaomi-redmi-4x/development/9-0-pixysos-t3943380"
+      "donation_url":"https://www.paypal.me/bionicBUG"
     }
   ]
 }
