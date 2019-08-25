@@ -1,13 +1,13 @@
 {
   "response": [
     {
-      "datetime": 1565108262,
-      "filename": "PixysOS-v2.4-angler-OFFICIAL-20190806-214742.zip",
-      "id": "73ef5a6528219b1982a923f3ffe8934a",
-      "size": 532853954,
+      "datetime": 1566452087,
+      "filename": "PixysOS-v2.4-angler-OFFICIAL-20190822-110447.zip",
+      "id": "8c724a61cb5a115862021ec2bbb5b1eb",
+      "size": 533118331,
       "romtype": "official",
-      "url": "https://downloads.sourceforge.net/project/pixys-os/pie/angler/PixysOS-v2.4-angler-OFFICIAL-20190806-214742.zip",
-      "version": "v2.4",
+      "url": "https://downloads.sourceforge.net/project/pixys-os/pie/angler/PixysOS-v2.4-angler-OFFICIAL-20190822-110447.zip",
+      "version": "v2.4"
       "xda_thread_url":"https://forum.xda-developers.com/nexus-6p/development/rom-pixysos-t3952614",
       "donation_url":"https://www.paypal.me/beingmishra"
     }
