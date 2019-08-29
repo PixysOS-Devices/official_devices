@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1562827238,
-      "filename": "PixysOS-v2.4-z2_plus-OFFICIAL-20190711-121038.zip",
-      "id": "5e33ba5a525ff4149e264147016c0d95",
-      "size": 600326553,
+      "datetime": 1566987825,
+      "filename": "PixysOS-v2.4-z2_plus-OFFICIAL-20190828-155345.zip",
+      "id": "df5f5fb9ee7ff0a64c9d26a8da01274a",
+      "size": 600139194,
       "romtype": "official",
-      "url": "https://downloads.sourceforge.net/project/pixys-os/pie/z2_plus/PixysOS-v2.4-z2_plus-OFFICIAL-20190711-121038.zip",
+      "url": "https://downloads.sourceforge.net/project/pixys-os/pie/z2_plus/PixysOS-v2.4-z2_plus-OFFICIAL-20190828-155345.zip",
       "version": "v2.4"
     }
   ]
