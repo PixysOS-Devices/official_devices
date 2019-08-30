@@ -2,12 +2,12 @@
 {
   "response": [
     {
-      "datetime": "1566626102",
-      "filename": "PixysOS-v2.4-whyred-OFFICIAL-20190824-112502.zip",
-      "id": "61dc2ddcb4364b2592025581b4f9d6ba",
+      "datetime": "1567164519",
+      "filename": "PixysOS-v2.4-whyred-OFFICIAL-20190830-165839.zip",
+      "id": "d677aba68b48493c0088de409cdd4045",
       "romtype": "official",
-      "size": 669636883,
-      "url": "https://downloads.sourceforge.net/project/pixys-os/pie/whyred/PixysOS-v2.4-whyred-OFFICIAL-20190824-112502.zip",
+      "size": 666883204
+      "url": "https://downloads.sourceforge.net/project/pixys-os/pie/whyred/PixysOS-v2.4-whyred-OFFICIAL-20190830-165839.zip",
       "version": "v2.4",
       "xda_thread_url":"https://forum.xda-developers.com/redmi-note-5-pro/development/rom-pixysos-t3846622",
       "donation_url":"https://www.paypal.me/syedsajid341"
