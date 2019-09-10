@@ -2,12 +2,12 @@
   "response": [
     {
       "datetime": 1568044455,
-      "filename": "PixysOS-v2.4-ysl-OFFICIAL-20190909-212415.zip",
-      "id": "6417858fa6c26054dffa1cc3f92f418a",
+      "filename":"PixysOS-v2.4-ysl-OFFICIAL-20190909-212415.zip",
+      "id":"6417858fa6c26054dffa1cc3f92f418a",
       "size": 624944001,
-      "romtype": "official",
-      "url": "https://downloads.sourceforge.net/project/pixys-os/pie/ysl/PixysOS-v2.4-ysl-OFFICIAL-20190909-212415.zip",
-      "version": "v2.4"
+      "romtype":"official",
+      "url":"https://downloads.sourceforge.net/project/pixys-os/pie/ysl/PixysOS-v2.4-ysl-OFFICIAL-20190909-212415.zip",
+      "version":"v2.4"
     }
   ]
 }
