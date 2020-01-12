@@ -1,13 +1,13 @@
 {
   "response": [
     {
-      "datetime": 1577799073,
-      "filename": "PixysOS-v3.0.1-violet-OFFICIAL-20191231-190113.zip",
-      "id": "3d82a05e6b91e524ed7472ec3fd6fa17",
-      "size": 879077241,
+      "datetime": 1578764723,
+      "filename": "PixysOS-v3.02-violet-OFFICIAL-20200111-231523.zip",
+      "id": "ebb1340ab8fbba6d4e655d98532e7f69",
+      "size": 878879865,
       "romtype": "official",
-      "url": "https://downloads.pixysos.com/violet/ten/PixysOS-v3.0.1-violet-OFFICIAL-20191231-190113.zip",
-      "version": "v3.0.1",
+      "url": "https://downloads.pixysos.com/violet/ten/PixysOS-v3.02-violet-OFFICIAL-20200111-231523.zip",
+      "version": "v3.02",
       "xda_thread_url":"https://forum.xda-developers.com/redmi-note-7-pro/development/rom-pixysos-v3-0-1-t4013913/post81091971",
       "donation_url":""
     }
