@@ -3,6 +3,7 @@
       "name":"Zenfone Max Pro M1",
       "brand":"Asus",
       "codename":"X00TD",
+      "device_tree":"device_asus_X00TD",
       "maintainer_name":"Subins Mani",
       "maintainer_url":"https://forum.xda-developers.com/member.php?u=7868666",
       "xda_thread":"https://forum.xda-developers.com/asus-zenfone-max-pro-m1/development/rom-pixysos-t3890672",
@@ -21,30 +22,10 @@
       ]
    },
    {
-      "name":"Redmi 5",
-      "brand":"Xiaomi",
-      "codename":"rosy",
-      "maintainer_name":"Shreejoy Dash",
-      "maintainer_url":"https://github.com/shreejoy",
-      "xda_thread":"",
-      "supported_version":[
-         "ten",
-         "ten_gapps"
-      ],
-      "specs":[
-         {
-            "cpu":"Snapdragon 450",
-            "ram":"2/3/4GB LPDDR4X",
-            "display":"IPS 5.70\" 1080p",
-            "battery":3300,
-            "camera":"12Mpx + 5Mpx"
-         }
-      ]
-   },
-   {
       "name":"Redmi 4X",
       "brand":"Xiaomi",
       "codename":"Santoni",
+      "device_tree":"device_xiaomi_santoni",
       "maintainer_name":"Ojas Sinha",
       "maintainer_url":"https://github.com/bionicBUG",
       "xda_thread":"",
@@ -66,6 +47,7 @@
       "name":"Redmi 6 Pro",
       "brand":"Xiaomi",
       "codename":"sakura",
+      "device_tree":"device_xiaomi_sakura",
       "maintainer_name":"Tushar Mahajan",
       "maintainer_url":"https://github.com/mahajant99",
       "xda_thread":"",
@@ -87,6 +69,7 @@
       "name":"Redmi Y2/S2",
       "brand":"Xiaomi",
       "codename":"ysl",
+      "device_tree":"device_xiaomi_ysl",
       "maintainer_name":"Tushar Mahajan",
       "maintainer_url":"https://github.com/mahajant99",
       "xda_thread":"",
@@ -108,6 +91,7 @@
       "name":"Mi A1",
       "brand":"Xiaomi",
       "codename":"tissot",
+      "device_tree":"device_xiaomi_tissot",
       "maintainer_name":"Amar Bajpai",
       "maintainer_url":"https://github.com/amarbajpai",
       "xda_thread":"",
@@ -129,6 +113,7 @@
       "name":"Redmi note 4",
       "brand":"Xiaomi",
       "codename":"mido",
+      "device_tree":"device_xiaomi_mido",
       "maintainer_name":"Shashank Patil ✌️",
       "maintainer_url":"https://github.com/shashank1436",
       "xda_thread":"https://forum.xda-developers.com/member.php?u=10342291",
