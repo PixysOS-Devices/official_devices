@@ -1,13 +1,13 @@
 {
   "response": [
     {
-      "datetime": 1580093483,
-      "filename": "PixysOS-v3.02-GAPPS-riva-OFFICIAL-20200127-082123.zipp",
-      "id": "9bd886f4ebdba98297ed0f8eaf0d5f17",
-      "size": 843169200,
+      "datetime": 1581477787,
+      "filename": "PixysOS-v3.0.3-GAPPS-riva-OFFICIAL-20200212-085307.zip",
+      "id": "e1c6c48a46011418b3595c2f3c0b7d6c",
+      "size": 842286000,
       "romtype": "official",
       "url": "https://downloads.sourceforge.net/project/pixys-os/ten/riva/PixysOS-v3.02-GAPPS-riva-OFFICIAL-20200127-082123.zip",
-      "version": "v3.02",
+      "version": "v3.0.3",
       "xda_thread_url":"https://forum.xda-developers.com/xiaomi-redmi-5a/development/rom-pixysos-t4041119",
       "donation_url":"https://www.paypal.me/Subinsmani"
     }
