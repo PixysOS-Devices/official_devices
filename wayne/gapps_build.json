@@ -1,17 +1,15 @@
 {
 	"response": [
 	{
-		"datetime": 1582437430,
-		"filename": "PixysOS-v3.0.3-GAPPS-wayne-OFFICIAL-20200223-112710.zip",
-		"id": "5ae97f28f306bd2dfec5dbdf6889752f",
-		"size": 1021681700,
+		"datetime": 1583755338,
+		"filename": "PixysOS-v3.0.3-GAPPS-wayne-OFFICIAL-20200309-173218.zip",
+		"id": "39967e882e932af4c157ead0221faf85",
+		"size": 1023816886,
 		"romtype": "official",
-		"url":"https://downloads.sourceforge.net/project/pixys-os/ten/wayne/PixysOS-v3.0.3-GAPPS-wayne-OFFICIAL-20200223-112710.zip",
+		"url":"https://downloads.sourceforge.net/project/pixys-os/ten/wayne/PixysOS-v3.0.3-GAPPS-wayne-OFFICIAL-20200309-173218.zip",
 		"version": "v3.0.3",
 		"xda_thread": "https://forum.xda-developers.com/mi-a2/xiaomi-6x-wayne/rom-pixysos-t4055453",
 		"donation_url": "" 
-
-
 	}
     ]
 }
