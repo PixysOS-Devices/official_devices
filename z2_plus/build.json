@@ -1,13 +1,13 @@
 {
   "response": [
     {
-      "datetime": 1581405389,
-      "filename": "PixysOS-v3.0.3-z2_plus-OFFICIAL-20200211-124629.zip",
-      "id": "df00ed757f1bf24e44209ea622d8ebc8",
-      "size": 587856166,
+      "datetime": 1586525505,
+      "filename": "PixysOS-v3.0.4-GAPPS-z2_plus-OFFICIAL-20200410-190145.zip",
+      "id": "c22747d706e4e71fd359ee224b046554",
+      "size": 948393961,
       "romtype": "official",
-      "url": "https://downloads.pixysos.com/z2_plus/ten/PixysOS-v3.0.3-z2_plus-OFFICIAL-20200211-124629.zip",
-      "version": "v3.0.3",
+      "url": "https://downloads.sourceforge.net/project/pixys-os/ten/z2_plus/PixysOS-v3.0.4-z2_plus-OFFICIAL-20200410-222120.zip",
+      "version": "v3.0.4",
       "xda_thread_url":"https://forum.xda-developers.com/lenovo-zuk-z2/development/rom-pixysos-t4011587",
       "donation_url":""
     }
