@@ -1,13 +1,13 @@
 {
   "response": [
     {
-      "datetime": 1585325547,
-      "filename": "PixysOS-v3.0.3-GAPPS-whyred-OFFICIAL-20200327-214227.zip",
-      "id": "d103914310848ce099f101c6dbed6c36",
-      "size": 974614822,
-      "romtype": "official",
-      "url": "https://downloads.sourceforge.net/project/pixys-os/ten/whyred/PixysOS-v3.0.3-GAPPS-whyred-OFFICIAL-20200327-214227.zip",
-      "version": "v3.0.3",
+      "datetime": 1586592701,
+      "filename": "PixysOS-v3.0.4-GAPPS-whyred-OFFICIAL-20200411-134141.zip",
+      "id": "6f9dd08367532c1df3121aa6a113760d",
+      "size": 1017781530,
+      "romtype": "OFFICIAL",
+      "url": "https://downloads.sourceforge.net/project/pixys-os/ten/whyred/PixysOS-v3.0.4-GAPPS-whyred-OFFICIAL-20200411-134141.zip",
+      "version": "v3.0.4",
       "xda_thread_url":"https://forum.xda-developers.com/redmi-note-5-pro/development/rom-pixys-os-q-whyred-t4071239",
       "donation_url":"https://www.paypal.me/Sipun"
     }
