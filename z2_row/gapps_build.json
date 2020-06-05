@@ -1,0 +1,15 @@
+{
+  "response": [
+    {
+      "datetime": 1591332140,
+      "filename": "PixysOS-v3.1.0-GAPPS-z2_row-OFFICIAL-20200605-101220.zip",
+      "id": "2061373d3353f0f58a1add1aa06b3594",
+      "size": 1187242507,
+      "romtype": "official",
+      "url": "https://downloads.sourceforge.net/project/pixys-os/ten/z2_row/PixysOS-v3.1.0-GAPPS-z2_row-OFFICIAL-20200605-101220.zip",
+      "version": "v3.1.0",
+      "xda_thread_url":"https://forum.xda-developers.com/zuk-z2-pro/development/pixysos-3-0-4-official-zuk-z2-pro-t4080859",
+      "donation_url":""
+    }
+  ]
+}
