@@ -1,13 +1,13 @@
 {
   "response": [
     {
-      "datetime": 1583890364,
-      "filename": "PixysOS-v3.0.3-GAPPS-onclite-OFFICIAL-20200311-070244.zip",
-      "id": "13274d296a14cdeacf30af64a6e73172",
-      "size": 1153412537,
+      "datetime": 1591344500,
+      "filename": "PixysOS-v3.1.0-GAPPS-onclite-OFFICIAL-20200605-133820.zip",
+      "id": "3809668c5fbeedc9441d69ff2edd6583",
+      "size": 1410792287,
       "romtype": "official",
-      "url": "https://downloads.pixysos.com/onclite/ten/PixysOS-v3.0.3-GAPPS-onclite-OFFICIAL-20200311-070244.zip",
-      "version": "v3.0.3",
+      "url": "https://downloads.pixysos.com/onclite/ten/PixysOS-v3.1.0-GAPPS-onclite-OFFICIAL-20200605-133820.zip",
+      "version": "v3.1.0",
       "xda_thread_url":"https://forum.xda-developers.com/redmi-7/development/rom-pixysos-v3-02-t4036099",
       "donation_url":""
     }
