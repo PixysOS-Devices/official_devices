@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1592638036,
-      "filename": "PixysOS-v3.1.0-GAPPS-ginkgo-OFFICIAL-20200620-125716.zip",
-      "id": "eb404091b6e4fd5d236c493712bc3062",
-      "size": 1359670436,
+      "datetime": 1593236039,
+      "filename": "PixysOS-v3.1.0-ginkgo-OFFICIAL-20200627-110359.zip",
+      "id": "ed48bf7fdc6db5c2ca172c15c2cbb5af",
+      "size": 806909492,
       "romtype": "official",
-      "url": "https://downloads.sourceforge.net/project/pixys-os/ten/ginkgo/PixysOS-v3.1.0-GAPPS-ginkgo-OFFICIAL-20200620-125716.zip",
+      "url": "https://downloads.sourceforge.net/project/pixys-os/ten/ginkgo/PixysOS-v3.1.0-ginkgo-OFFICIAL-20200627-110359.zip",
       "version": "v2.4"
     }
   ]
