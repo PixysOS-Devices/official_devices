@@ -1,13 +1,13 @@
 {
   "response": [
     {
-      "datetime": 1591257776,
-      "filename": "PixysOS-v3.1.0-GAPPS-sakura-OFFICIAL-20200604-133256.zip",
-      "id": "877aaa0b271a4ea0a4dfe1f9aec74c3b",
-      "size": 1205328992,
+      "datetime": 1594126548,
+      "filename": "PixysOS-v3.1.1-GAPPS-sakura-OFFICIAL-20200707-182548.zip",
+      "id": "a7879121b5c38bbcd360801b31d4dc4f",
+      "size": 1212003969,
       "romtype": "OFFICIAL",
-      "url": "https://downloads.sourceforge.net/project/pixys-os/ten/violet/PixysOS-v3.0.4-GAPPS-violet-OFFICIAL-20200518-122824.zip",
-      "version": "v3.1.0",
+      "url": "https://sourceforge.net/projects/pixys-os/files/ten/sakura/PixysOS-v3.1.1-GAPPS-sakura-OFFICIAL-20200707-182548.zip/download",
+      "version": "v3.1.1",
       "xda_thread_url":"https://forum.xda-developers.com/redmi-6-pro/development/rom-pixysos-v3-0-1-t4023921",
       "donation_url":"paypal.me/mhjn950"
     }
