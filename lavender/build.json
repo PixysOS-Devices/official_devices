@@ -1,13 +1,13 @@
 {
   "response": [
     {
-      "datetime": 1592336022,
-      "filename": "PixysOS-v3.1.0-lavender-OFFICIAL-20200617-010342.zip",
-      "id": "1e83d1420f11f72bcfce98e5f490cf84",
-      "size": 795304982,
+      "datetime": 1594164936,
+      "filename": "PixysOS-v3.1.1-lavender-OFFICIAL-20200708-050536.zip",
+      "id": "af55870b5724bdb284efffe07bf332fb",
+      "size": 797774709,
       "romtype": "official",
-      "url": "https://downloads.sourceforge.net/project/pixys-os/ten/lavender/PixysOS-v3.1.0-lavender-OFFICIAL-20200617-010342.zip",
-      "version": "v3.1.0",
+      "url": "https://downloads.sourceforge.net/project/pixys-os/ten/lavender/PixysOS-v3.1.1-lavender-OFFICIAL-20200708-050536.zip",
+      "version": "v3.1.1",
       "xda_thread_url":"https://forum.xda-developers.com/redmi-note-7/development/rom-pixysos-3-1-t4110949",
       "donation_url":"https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=WFJG3Q8VUF49U&currency_code=BRL&source=url"
     }
