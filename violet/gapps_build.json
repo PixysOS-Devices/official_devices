@@ -1,13 +1,13 @@
 {
   "response": [
     {
-      "datetime": 1591232175,
-      "filename": "PixysOS-v3.1.0-GAPPS-violet-OFFICIAL-20200604-062615.zip",
-      "id": "dc20ed0bf8ccd36c0e98c0e694a915a0",
-      "size": 1410178330,
+      "datetime": 1594380007,
+      "filename": "PixysOS-v3.1.1-GAPPS-violet-OFFICIAL-20200710-165007.zip",
+      "id": "66e1210c23546c2d809299f0f79edcd7",
+      "size": 1419828420,
       "romtype": "official",
-      "url": "https://downloads.sourceforge.net/project/pixys-os/ten/violet/PixysOS-v3.1.0-GAPPS-violet-OFFICIAL-20200604-062615.zip",
-      "version": "v3.1.0",
+      "url": "https://downloads.sourceforge.net/project/pixys-os/ten/violet/PixysOS-v3.1.1-GAPPS-violet-OFFICIAL-20200710-165007.zip",
+      "version": "v3.1.1",
       "xda_thread_url":"https://forum.xda-developers.com/redmi-note-7-pro/development/rom-pixysos-v3-0-1-t4013913/post81091971",
       "donation_url":""
     }
