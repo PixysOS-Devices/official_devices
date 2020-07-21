@@ -1,13 +1,13 @@
 {
   "response": [
     {
-      "datetime": 1592874659,
-      "filename": "PixysOS-v3.1.0-sanders-OFFICIAL-20200623-064059.zip",
-      "id": "c01c57c00703285cf0adb758f6c2a0ee",
-      "size": 638651325,
+      "datetime": 1595330896,
+      "filename": "PixysOS-v3.1.1-sanders-OFFICIAL-20200721-165816.zip",
+      "id": "6355696e4661dbc15432f8e18e072f0e",
+      "size": 640878232,
       "romtype": "official",
-      "url": "https://downloads.sourceforge.net/project/pixys-os/ten/sanders/PixysOS-v3.1.0-sanders-OFFICIAL-20200623-064059.zip",
-      "version": "v2.4"
+      "url": "https://get.pixysos.com/sanders/ten/PixysOS-v3.1.1-sanders-OFFICIAL-20200721-165816.zip",
+      "version": "v3.1.1"
     }
   ]
 }
