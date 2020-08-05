@@ -1,14 +1,15 @@
 {
   "response": [
     {
-      "datetime": 1594981090,
-      "filename": "PixysOS-v3.1.1-begonia-OFFICIAL-20200717-154810.zip",
-      "id": "5b00064ecf1a251e127fdea9ce7fbd1a",
-      "size": 844551562,
+      "datetime": 1596613168,
+      "filename": "PixysOS-v3.1.2-begonia-OFFICIAL-20200805-130928.zip",
+      "id": "afd35f156f197ba91ccd95c7754ab07c",
+      "size": 840055981,
       "romtype": "official",
-      "url": "https://downloads.sourceforge.net/project/pixys-os/ten/begonia/PixysOS-v3.1.1-begonia-OFFICIAL-20200717-154810.zip",
-      "xda_thread_url":"https://forum.xda-developers.com/redmi-note-8-pro/development/rom-pixysos-begonia-begoniain-t4134539",
-      "version": "v3.1.1"
+      "url": "https://get.pixysos.com/begonia/ten/PixysOS-v3.1.2-begonia-OFFICIAL-20200805-130928.zip",
+      "version": "v3.1.2",
+      "xda_thread_url": "https://forum.xda-developers.com/redmi-note-8-pro/development/rom-pixysos-begonia-begoniain-t4134539",
+      "donation_url": "https://www.paypal.me/iitachiuchihaa"
     }
   ]
 }

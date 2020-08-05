@@ -1,14 +1,15 @@
 {
   "response": [
     {
-      "datetime": 1594969062,
-      "filename": "PixysOS-v3.1.1-GAPPS-begonia-OFFICIAL-20200717-122742.zip",
-      "id": "4852621edb73dfc9149be52c54db93d3",
-      "size": 1366668393,
+      "datetime": 1596609571,
+      "filename": "PixysOS-v3.1.2-GAPPS-begonia-OFFICIAL-20200805-120931.zip",
+      "id": "cd44805a95f46f5f24edf6b90ffce5ad",
+      "size": 1362028557,
       "romtype": "official",
-      "url": "https://downloads.sourceforge.net/project/pixys-os/ten/begonia/PixysOS-v3.1.1-GAPPS-begonia-OFFICIAL-20200717-122742.zip",
-      "xda_thread_url":"https://forum.xda-developers.com/redmi-note-8-pro/development/rom-pixysos-begonia-begoniain-t4134539",
-      "version": "v3.1.1"
+      "url": "https://get.pixysos.com/begonia/ten/PixysOS-v3.1.2-GAPPS-begonia-OFFICIAL-20200805-120931.zip",
+      "version": "v3.1.2",
+      "xda_thread_url": "https://forum.xda-developers.com/redmi-note-8-pro/development/rom-pixysos-begonia-begoniain-t4134539",
+      "donation_url": "https://www.paypal.me/iitachiuchihaa"
     }
   ]
 }
