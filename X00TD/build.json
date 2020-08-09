@@ -1,13 +1,13 @@
 {
   "response": [
     {
-      "datetime": 1594150535,
-      "filename": "PixysOS-v3.1.1-X00TD-OFFICIAL-20200708-010535.zip",
-      "id": "25d8a9a914de2ab91c0519a5e828739b",
-      "size": 661850316,
+      "datetime": 1596976057,
+      "filename": "PixysOS-v3.1.2-X00TD-OFFICIAL-20200809-175737.zip",
+      "id": "644136d676737d33e194154a0d3b9cee",
+      "size": 662677797,
       "romtype": "official",
-      "url": "https://downloads.sourceforge.net/project/pixys-os/ten/X00TD/PixysOS-v3.1.1-X00TD-OFFICIAL-20200708-010535.zip",
-      "version": "v3.1.1",
+      "url": "https://get.pixysos.com/X00TD/ten/PixysOS-v3.1.2-X00TD-OFFICIAL-20200809-175737.zip",
+      "version": "v3.1.2",
       "xda_thread_url":"https://forum.xda-developers.com/asus-zenfone-max-pro-m1/development/3-1-0-pixys-os-official-t4109811",
       "donation_url":"https://www.paypal.me/Subinsmani"
     }
