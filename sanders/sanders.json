@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1596652782,
-      "filename": "PixysOS-v3.1.2-sanders-OFFICIAL-20200806-000942.zip",
-      "id": "39e3754d9f01dde7f043fc83e482c33d",
-      "size": 641231983,
+      "datetime": 1598310994,
+      "filename": "PixysOS-v3.1.2-sanders-OFFICIAL-20200825-044634.zip",
+      "id": "3d57b9a109b8b8e1c8425232491379d8",
+      "size": 640033556,
       "romtype": "official",
-      "url": "https://get.pixysos.com/sanders/ten/PixysOS-v3.1.2-sanders-OFFICIAL-20200806-000942.zip",
+      "url": "https://get.pixysos.com/sanders/ten/PixysOS-v3.1.2-sanders-OFFICIAL-20200825-044634.zip",
       "version": "v3.1.2"
     }
   ]
