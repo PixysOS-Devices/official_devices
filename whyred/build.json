@@ -1,13 +1,13 @@
 {
   "response": [
     {
-      "datetime": 1598452397,
-      "filename": "PixysOS-v3.1.2-whyred-OFFICIAL-20200826-200317.zip",
-      "id": "15036adba515078936c469f90f0a84a2",
-      "size": 707733139,
+      "datetime": 1600352606,
+      "filename": "PixysOS-v3.1.3-whyred-OFFICIAL-20200917-195326.zip",
+      "id": "0e49447ee8b81c7e888ef6cba7ebbc8a",
+      "size": 706020622,
       "romtype": "official",
-      "url": "https://get.pixysos.com/whyred/ten/PixysOS-v3.1.2-whyred-OFFICIAL-20200826-200317.zip",
-      "version": "v3.1.2",
+      "url": "https://get.pixysos.com/whyred/ten/PixysOS-v3.1.3-whyred-OFFICIAL-20200917-195326.zip",
+      "version": "v3.1.3",
       "xda_thread_url":"https://forum.xda-developers.com/redmi-note-5-pro/development/rom-pixys-os-q-whyred-t4071239",
       "donation_url":"https://www.paypal.me/Sipun"
     }
