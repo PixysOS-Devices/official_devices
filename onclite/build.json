@@ -1,13 +1,13 @@
 {
   "response": [
     {
-      "datetime": 1596987953,
-      "filename": "PixysOS-v3.1.2-onclite-OFFICIAL-20200809-211553.zip",
-      "id": "94635eaf18160695b045061ff9274bf0",
-      "size": 1065003181,
+      "datetime": 1600867077,
+      "filename": "PixysOS-v3.1.3-onclite-OFFICIAL-20200923-184757.zip",
+      "id": "64edb016ef10f5ccaa2a555b7984d796",
+      "size": 1066664191,
       "romtype": "official",
-      "url": "https://get.pixysos.com/onclite/ten/PixysOS-v3.1.2-onclite-OFFICIAL-20200809-211553.zip",
-      "version": "v3.1.2",
+      "url": "https://get.pixysos.com/onclite/ten/PixysOS-v3.1.3-onclite-OFFICIAL-20200923-184757.zip",
+      "version": "v3.1.3",
       "xda_thread_url":"https://forum.xda-developers.com/redmi-7/development/rom-pixysos-v3-02-t4036099",
       "donation_url":""
     }
